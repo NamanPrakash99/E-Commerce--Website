@@ -68,8 +68,8 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any queries or collaborations, feel free to reach out:
-- **Email:** namanprakash2580@gmail.com.com
-
+- **Email:** namanprakash2580@gmail.com
+- **LinkedIn:**  https://www.linkedin.com/in/naman2580/
 
 ---
 
